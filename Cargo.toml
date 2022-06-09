@@ -1,0 +1,8 @@
+[package]
+name = "Tetris" # the name of the package
+version = "0.0.1"    # the current version, obeying semver
+authors = []
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
